@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/AmStaff.jpeg",
+        "name": "AmStaff"
+    },
+    {
+        "image": "../assets/Dobermann.jpeg",
+        "name": "Dobermann"
+    },
+    {
+        "image": "../assets/german shepherd.webp",
+        "name": "German-Shepherd"
+    },
+    {
+        "image": "../assets/Lab.jpeg",
+        "name": "Lab"
+    },
+    {
+        "image": "../assets/Lhasa Apso.jpeg",
+        "name": "Lhasa-Apso"
+    },
+    {
+        "image": "../assets/Pomsky.png",
+        "name": "Pomsky"
+    },
+    {
+        "image": "../assets/rhodesian ridgeback.jpeg",
+        "name": "Rhodesian-ridgeback"
+    },
+    {
+        "image": "../assets/st. bernard.jpeg",
+        "name": "St-Bernard"
+    },
+    {
+        "image": "../assets/Tamaskan.jpg",
+        "name": "Tamaskan"
+    }
+]
