@@ -1,4 +1,5 @@
 const gridContainer = document.querySelector(".grid-container");
+document.querySelector("button").addEventListener("click", restart);
 let cards = [];
 let firstCard, secondCard;
 let lockBoard = false;
@@ -84,7 +85,7 @@ function unflipCards () {
 
 function resetBoard() {
     firstCard = null;
-    secondCard = =null;
+    secondCard = null;
     lockBoard = false;
 }
 
